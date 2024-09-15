@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning math
 - 💞️ I’m looking to collaborate on math
 - 📫 How to reach me nowhere
-- ⚡ Fun fact: my friend is warith
+- ⚡ Fun fact: I like burgers :3
 
 <!---
 RanyThePro07/RanyThePro07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
